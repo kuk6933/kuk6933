@@ -1,15 +1,10 @@
 # Oh Hyeong Seok
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuk6933)](https://solved.ac/kuk6933)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuk6933&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuk6933&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## studying
 
-
-
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
