@@ -1,6 +1,7 @@
 # Oh Hyeong Seok
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuk6933)](https://solved.ac/kuk6933)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuk6933&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuk6933&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## studying
 
